@@ -1,4 +1,4 @@
-# pancakeswap
+# scam pancakeswap frontrun bot
 
 This is scam bot repo.
 
